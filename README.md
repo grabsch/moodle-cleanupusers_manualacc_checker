@@ -1,13 +1,13 @@
 # moodle-cleanupusers_manualacc_checker
 Subplugin for moodle-tool_cleanupusers for manual accounts
 
-This subpugin requires the moodle toot tool_cleanupusers. This Tool can be found here: 
+This subplugin requires the moodle tool tool_cleanupusers. This Tool can be found here: 
 
 https://github.com/eLearning-TUDarmstadt/moodle-tool_cleanupusers
 
-The subplugin shoud be paces unter:  admin/tool/cleanupusers/userstatus.
+The subplugin should be placed unter:  admin/tool/cleanupusers/userstatus.
 
-This subplugin is a compelte copy of the subplugin "timechecker", and suspends and deletes accounts with auth_type = 'manual'. 
+This subplugin is a complete copy of the subplugin "timechecker", and suspends and deletes accounts with auth_type = 'manual'. 
 
 # Timechecker
 
